@@ -1,0 +1,32 @@
+.responsive {
+
+	margin: 10px;
+	float: left;
+	width: 32%;
+
+}
+.responsive img {
+	width: 100%;
+	height:auto;
+	display: inline-block;
+
+}
+
+div.name {
+  	padding: 10px;
+  	text-align: left;
+	color:DeepSkyBlue;
+}
+
+div.desc {
+	width: 95%;
+	padding: 10px;
+	text-align: justify;
+	display: inline-block;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
